@@ -15,7 +15,7 @@
       "price": 8000,
       "location": "HSR Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://www.tenanto.in/property_uploads/DSC04125-HDR_1696928109.jpg"]
+      "photos": ["https://s3.ap-south-1.amazonaws.com/zs2.0/PropertyImages/19c153f0-f922-4012-9db1-0ccc1b22b2a8.jpg"]
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "price": 12000,
       "location": "Indiranagar",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://ixorasuite.com/wp-content/uploads/2023/11/Brick-loft-Penthouse-with-terrace.jpg"]
+      "photos": ["https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/f_auto,q_auto/v1662524372/Website/CMS-Uploads/ebhewvy9jagvrjf6uzy9.jpg"]
     },
     {
       "id": 5,
