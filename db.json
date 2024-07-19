@@ -6,7 +6,12 @@
       "price": 15000,
       "location": "Koramangala",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://is1-3.housingcdn.com/4f2250e8/4a9e0296f95ed39a37f04470bdaa11ac/v0/fs/advaitha_aksha-koramangala-bengaluru-advaitha_ventures_%28p%29_ltd.jpeg"]
+      "photos": [
+        "https://is1-3.housingcdn.com/4f2250e8/4a9e0296f95ed39a37f04470bdaa11ac/v0/fs/advaitha_aksha-koramangala-bengaluru-advaitha_ventures_%28p%29_ltd.jpeg"
+      ],
+      "agentName": "Ravi Kumar",
+      "agentEmail": "ravi.kumar@gmail.com",
+      "agentPhone": "+91-9876543210"
     },
     {
       "id": 2,
@@ -15,7 +20,12 @@
       "price": 8000,
       "location": "HSR Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://s3.ap-south-1.amazonaws.com/zs2.0/PropertyImages/19c153f0-f922-4012-9db1-0ccc1b22b2a8.jpg"]
+      "photos": [
+        "https://s3.ap-south-1.amazonaws.com/zs2.0/PropertyImages/19c153f0-f922-4012-9db1-0ccc1b22b2a8.jpg"
+      ],
+      "agentName": "Amit Sharma",
+      "agentEmail": "amit.sharma@gmail.com",
+      "agentPhone": "+91-9876543211"
     },
     {
       "id": 3,
@@ -24,7 +34,12 @@
       "price": 35000,
       "location": "Whitefield",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://is1-3.housingcdn.com/4f2250e8/55ad41b6b5518c256428dd2fa11dd15c/v0/fs/dsr_elixir-whitefield-bengaluru-dsr_infrastructure_pvt_ltd.jpeg"]
+      "photos": [
+        "https://is1-3.housingcdn.com/4f2250e8/55ad41b6b5518c256428dd2fa11dd15c/v0/fs/dsr_elixir-whitefield-bengaluru-dsr_infrastructure_pvt_ltd.jpeg"
+      ],
+      "agentName": "Priya Singh",
+      "agentEmail": "priya.singh@gmail.com",
+      "agentPhone": "+91-9876543212"
     },
     {
       "id": 4,
@@ -33,7 +48,12 @@
       "price": 12000,
       "location": "Indiranagar",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/f_auto,q_auto/v1662524372/Website/CMS-Uploads/ebhewvy9jagvrjf6uzy9.jpg"]
+      "photos": [
+        "https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/f_auto,q_auto/v1662524372/Website/CMS-Uploads/ebhewvy9jagvrjf6uzy9.jpg"
+      ],
+      "agentName": "Suresh Patel",
+      "agentEmail": "suresh.patel@gmail.com",
+      "agentPhone": "+91-9876543213"
     },
     {
       "id": 5,
@@ -42,7 +62,12 @@
       "price": 6000,
       "location": "BTM Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center_caption_photo/photo/5e70a32d29d9b9000153c4b0/1.jpg"]
+      "photos": [
+        "https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center_caption_photo/photo/5e70a32d29d9b9000153c4b0/1.jpg"
+      ],
+      "agentName": "Vikas Verma",
+      "agentEmail": "vikas.verma@gmail.com",
+      "agentPhone": "+91-9876543214"
     },
     {
       "id": 6,
@@ -51,7 +76,12 @@
       "price": 20000,
       "location": "Electronic City",
       "amenities": ["WiFi", "Gym", "24/7 Security"],
-      "photos": ["https://www.sobha.com/wp-content/uploads/2023/03/flats-near-electronic-city-bangalore-SOBHA_brooklyn-tower.webp"]
+      "photos": [
+        "https://www.sobha.com/wp-content/uploads/2023/03/flats-near-electronic-city-bangalore-SOBHA_brooklyn-tower.webp"
+      ],
+      "agentName": "Anita Desai",
+      "agentEmail": "anita.desai@gmail.com",
+      "agentPhone": "+91-9876543215"
     },
     {
       "id": 7,
@@ -60,7 +90,12 @@
       "price": 18000,
       "location": "JP Nagar",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://imagecdn.99acres.com/media1/23669/13/473393698M-1707888670984.jpg"]
+      "photos": [
+        "https://imagecdn.99acres.com/media1/23669/13/473393698M-1707888670984.jpg"
+      ],
+      "agentName": "Rahul Mehta",
+      "agentEmail": "rahul.mehta@gmail.com",
+      "agentPhone": "+91-9876543216"
     },
     {
       "id": 8,
@@ -69,7 +104,12 @@
       "price": 5000,
       "location": "Bellandur",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://imagecdn.99acres.com/media1/23623/12/472472866M-1714914562070.jpg"]
+      "photos": [
+        "https://imagecdn.99acres.com/media1/23623/12/472472866M-1714914562070.jpg"
+      ],
+      "agentName": "Sunita Rao",
+      "agentEmail": "sunita.rao@gmail.com",
+      "agentPhone": "+91-9876543217"
     },
     {
       "id": 9,
@@ -78,7 +118,12 @@
       "price": 22000,
       "location": "Marathahalli",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://www.adarshdevelopers.com/blog/wp-content/uploads/2022/01/Buying-2-3-BHK-flats-in-Marathahalli.jpg"]
+      "photos": [
+        "https://www.adarshdevelopers.com/blog/wp-content/uploads/2022/01/Buying-2-3-BHK-flats-in-Marathahalli.jpg"
+      ],
+      "agentName": "Manoj Jain",
+      "agentEmail": "manoj.jain@gmail.com",
+      "agentPhone": "+91-9876543218"
     },
     {
       "id": 10,
@@ -87,7 +132,12 @@
       "price": 40000,
       "location": "Sarjapur",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://housing-images.n7net.in/4f2250e8/1ed83df9946f2cacf462f2e0972d333c/v0/large/emmanuel_heights-choodasandra-bengaluru-emmanuel_constructions_pvt_ltd.jpg"]
+      "photos": [
+        "https://housing-images.n7net.in/4f2250e8/1ed83df9946f2cacf462f2e0972d333c/v0/large/emmanuel_heights-choodasandra-bengaluru-emmanuel_constructions_pvt_ltd.jpg"
+      ],
+      "agentName": "Nisha Gupta",
+      "agentEmail": "nisha.gupta@gmail.com",
+      "agentPhone": "+91-9876543219"
     },
     {
       "id": 11,
@@ -96,7 +146,12 @@
       "price": 15000,
       "location": "Koramangala",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://imagecdn.99acres.com/media1/25238/17/504777185M-1721047755501.webp"]
+      "photos": [
+        "https://imagecdn.99acres.com/media1/25238/17/504777185M-1721047755501.webp"
+      ],
+      "agentName": "Kiran Rao",
+      "agentEmail": "kiran.rao@gmail.com",
+      "agentPhone": "+91-9876543220"
     },
     {
       "id": 12,
@@ -105,7 +160,12 @@
       "price": 8000,
       "location": "HSR Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://images.nobroker.in/images/8a9f83438db6d359018db6e673790b8f/8a9f83438db6d359018db6e673790b8f_26672_711009_medium.jpg"]
+      "photos": [
+        "https://images.nobroker.in/images/8a9f83438db6d359018db6e673790b8f/8a9f83438db6d359018db6e673790b8f_26672_711009_medium.jpg"
+      ],
+      "agentName": "Pooja Nair",
+      "agentEmail": "pooja.nair@gmail.com",
+      "agentPhone": "+91-9876543221"
     },
     {
       "id": 13,
@@ -114,7 +174,12 @@
       "price": 35000,
       "location": "Whitefield",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://www.prestigesparkgrove.in/project/top-class-villas-near-whitefield.webp"]
+      "photos": [
+        "https://www.prestigesparkgrove.in/project/top-class-villas-near-whitefield.webp"
+      ],
+      "agentName": "Arun Khanna",
+      "agentEmail": "arun.khanna@gmail.com",
+      "agentPhone": "+91-9876543222"
     },
     {
       "id": 14,
@@ -123,7 +188,12 @@
       "price": 12000,
       "location": "Indiranagar",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://ixorasuite.com/wp-content/uploads/2023/11/Brick-loft-Penthouse-with-terrace.jpg"]
+      "photos": [
+        "https://ixorasuite.com/wp-content/uploads/2023/11/Brick-loft-Penthouse-with-terrace.jpg"
+      ],
+      "agentName": "Maya Iyer",
+      "agentEmail": "maya.iyer@gmail.com",
+      "agentPhone": "+91-9876543223"
     },
     {
       "id": 15,
@@ -132,7 +202,12 @@
       "price": 6000,
       "location": "BTM Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/v1667194978/Website/CMS-Uploads/_MG_0114_5_6_e0lpdn.jpg"]
+      "photos": [
+        "https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/v1667194978/Website/CMS-Uploads/_MG_0114_5_6_e0lpdn.jpg"
+      ],
+      "agentName": "Sandeep Reddy",
+      "agentEmail": "sandeep.reddy@gmail.com",
+      "agentPhone": "+91-9876543224"
     },
     {
       "id": 16,
@@ -141,7 +216,12 @@
       "price": 20000,
       "location": "Electronic City",
       "amenities": ["WiFi", "Gym", "24/7 Security"],
-      "photos": ["https://homebazaar-blog.s3.ap-south-1.amazonaws.com/knowledge/wp-content/uploads/2023/08/21083407/Godrej-Nurture-min.jpg"]
+      "photos": [
+        "https://homebazaar-blog.s3.ap-south-1.amazonaws.com/knowledge/wp-content/uploads/2023/08/21083407/Godrej-Nurture-min.jpg"
+      ],
+      "agentName": "Neha Joshi",
+      "agentEmail": "neha.joshi@gmail.com",
+      "agentPhone": "+91-9876543225"
     },
     {
       "id": 17,
@@ -150,7 +230,12 @@
       "price": 18000,
       "location": "JP Nagar",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://im.proptiger.com/1/3107206/6/paradise-elevation-117664772.jpeg"]
+      "photos": [
+        "https://im.proptiger.com/1/3107206/6/paradise-elevation-117664772.jpeg"
+      ],
+      "agentName": "Ajay Malhotra",
+      "agentEmail": "ajay.malhotra@gmail.com",
+      "agentPhone": "+91-9876543226"
     },
     {
       "id": 18,
@@ -159,7 +244,12 @@
       "price": 5000,
       "location": "Bellandur",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center/cover_photo/635fae8f9aa67d0001444f29/3.jpg"]
+      "photos": [
+        "https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center/cover_photo/635fae8f9aa67d0001444f29/3.jpg"
+      ],
+      "agentName": "Rohit Kapoor",
+      "agentEmail": "rohit.kapoor@gmail.com",
+      "agentPhone": "+91-9876543227"
     },
     {
       "id": 19,
@@ -168,7 +258,10 @@
       "price": 22000,
       "location": "Marathahalli",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://www.ecolifedevelopers.com/images/aarial3.jpg"]
+      "photos": ["https://www.ecolifedevelopers.com/images/aarial3.jpg"],
+      "agentName": "Seema Arora",
+      "agentEmail": "seema.arora@gmail.com",
+      "agentPhone": "+91-9876543228"
     },
     {
       "id": 20,
@@ -177,7 +270,12 @@
       "price": 40000,
       "location": "Sarjapur",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://address-prod.s3.ap-south-1.amazonaws.com/projects/1708951226113%5BPROXY%5D"]
+      "photos": [
+        "https://address-prod.s3.ap-south-1.amazonaws.com/projects/1708951226113%5BPROXY%5D"
+      ],
+      "agentName": "Kajal Tiwari",
+      "agentEmail": "kajal.tiwari@gmail.com",
+      "agentPhone": "+91-9876543229"
     },
     {
       "id": 21,
@@ -186,7 +284,12 @@
       "price": 15000,
       "location": "Koramangala",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://planetprop.in/wp-content/uploads/2020/05/lanai-pcoc-koramangala.jpg"]
+      "photos": [
+        "https://planetprop.in/wp-content/uploads/2020/05/lanai-pcoc-koramangala.jpg"
+      ],
+      "agentName": "Vivek Singh",
+      "agentEmail": "vivek.singh@gmail.com",
+      "agentPhone": "+91-9876543230"
     },
     {
       "id": 22,
@@ -195,7 +298,12 @@
       "price": 8000,
       "location": "HSR Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://images.nobroker.in/images/8a9f8cc38eccd45e018ecd27051e27cc/8a9f8cc38eccd45e018ecd27051e27cc_575897_954273_medium.jpg"]
+      "photos": [
+        "https://images.nobroker.in/images/8a9f8cc38eccd45e018ecd27051e27cc/8a9f8cc38eccd45e018ecd27051e27cc_575897_954273_medium.jpg"
+      ],
+      "agentName": "Arjun Thakur",
+      "agentEmail": "arjun.thakur@gmail.com",
+      "agentPhone": "+91-9876543231"
     },
     {
       "id": 23,
@@ -204,7 +312,12 @@
       "price": 35000,
       "location": "Whitefield",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://www.homznspace.com/wp-content/uploads/2023/01/Villa-view-Sobha-Galera-Sobha-Luxury-Villas-Whitefield.jpg"]
+      "photos": [
+        "https://www.homznspace.com/wp-content/uploads/2023/01/Villa-view-Sobha-Galera-Sobha-Luxury-Villas-Whitefield.jpg"
+      ],
+      "agentName": "Meera Kaur",
+      "agentEmail": "meera.kaur@gmail.com",
+      "agentPhone": "+91-9876543232"
     },
     {
       "id": 24,
@@ -213,7 +326,12 @@
       "price": 12000,
       "location": "Indiranagar",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/f_auto,q_auto/v1662524629/Website/CMS-Uploads/q3kgszjfkvuh7cjzngcs.jpg"]
+      "photos": [
+        "https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/f_auto,q_auto/v1662524629/Website/CMS-Uploads/q3kgszjfkvuh7cjzngcs.jpg"
+      ],
+      "agentName": "Nikhil Menon",
+      "agentEmail": "nikhil.menon@gmail.com",
+      "agentPhone": "+91-9876543233"
     },
     {
       "id": 25,
@@ -222,7 +340,12 @@
       "price": 6000,
       "location": "BTM Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://is1-3.housingcdn.com/01c16c28/b9eed8d613c149a1969474e72e13a30c/v0/medium/3_rk_-for-rent-btm_layout-Bangalore-outside_view.jpg"]
+      "photos": [
+        "https://is1-3.housingcdn.com/01c16c28/b9eed8d613c149a1969474e72e13a30c/v0/medium/3_rk_-for-rent-btm_layout-Bangalore-outside_view.jpg"
+      ],
+      "agentName": "Anil Agarwal",
+      "agentEmail": "anil.agarwal@gmail.com",
+      "agentPhone": "+91-9876543234"
     },
     {
       "id": 26,
@@ -231,7 +354,10 @@
       "price": 20000,
       "location": "Electronic City",
       "amenities": ["WiFi", "Gym", "24/7 Security"],
-      "photos": ["https://i.ytimg.com/vi/Hn_yZggt6Xg/maxresdefault.jpg"]
+      "photos": ["https://i.ytimg.com/vi/Hn_yZggt6Xg/maxresdefault.jpg"],
+      "agentName": "Sarika Sinha",
+      "agentEmail": "sarika.sinha@gmail.com",
+      "agentPhone": "+91-9876543235"
     },
     {
       "id": 27,
@@ -240,7 +366,12 @@
       "price": 18000,
       "location": "JP Nagar",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://superadmin.homes247.in/images/uploadPropertyImgs/1633679928-G4@72x-50.jpg"]
+      "photos": [
+        "https://superadmin.homes247.in/images/uploadPropertyImgs/1633679928-G4@72x-50.jpg"
+      ],
+      "agentName": "Tara Shukla",
+      "agentEmail": "tara.shukla@gmail.com",
+      "agentPhone": "+91-9876543236"
     },
     {
       "id": 28,
@@ -249,7 +380,12 @@
       "price": 5000,
       "location": "Bellandur",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://img.cofynd.com/images/latest_images_2024/acbf589018a0caa962b6f06b332dfb4ae88c7c50.webp"]
+      "photos": [
+        "https://img.cofynd.com/images/latest_images_2024/acbf589018a0caa962b6f06b332dfb4ae88c7c50.webp"
+      ],
+      "agentName": "Varun Desai",
+      "agentEmail": "varun.desai@gmail.com",
+      "agentPhone": "+91-9876543237"
     },
     {
       "id": 29,
@@ -258,7 +394,12 @@
       "price": 22000,
       "location": "Marathahalli",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://newprojects.99acres.com/projects/divyasree_/divyasree_77_place/images/fn0n6dnu_optOrig.jpg"]
+      "photos": [
+        "https://newprojects.99acres.com/projects/divyasree_/divyasree_77_place/images/fn0n6dnu_optOrig.jpg"
+      ],
+      "agentName": "Rajiv Mehta",
+      "agentEmail": "rajiv.mehta@gmail.com",
+      "agentPhone": "+91-9876543238"
     },
     {
       "id": 30,
@@ -267,7 +408,12 @@
       "price": 40000,
       "location": "Sarjapur",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://www.central5properties.com/wp-content/uploads/2020/05/1b-Apartments-Homes-Bengaluru-Godrej-Reflections-Sarjapur-Road-ArielView-1170x700.jpg?v=1590128266"]
+      "photos": [
+        "https://www.central5properties.com/wp-content/uploads/2020/05/1b-Apartments-Homes-Bengaluru-Godrej-Reflections-Sarjapur-Road-ArielView-1170x700.jpg?v=1590128266"
+      ],
+      "agentName": "Gaurav Patel",
+      "agentEmail": "gaurav.patel@gmail.com",
+      "agentPhone": "+91-9876543239"
     },
     {
       "id": 31,
@@ -276,7 +422,12 @@
       "price": 15000,
       "location": "Koramangala",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://teja12.kuikr.com/is/a/c/880x425/gallery_images/original/cf5eeb422ece03d.gif"]
+      "photos": [
+        "https://teja12.kuikr.com/is/a/c/880x425/gallery_images/original/cf5eeb422ece03d.gif"
+      ],
+      "agentName": "Sunil Joshi",
+      "agentEmail": "sunil.joshi@gmail.com",
+      "agentPhone": "+91-9876543240"
     },
     {
       "id": 32,
@@ -285,7 +436,12 @@
       "price": 8000,
       "location": "HSR Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://www.skepcoliving.com/wp-content/uploads/2023/06/PRO0359_61_62-1-jpg.webp"]
+      "photos": [
+        "https://www.skepcoliving.com/wp-content/uploads/2023/06/PRO0359_61_62-1-jpg.webp"
+      ],
+      "agentName": "Rita Sharma",
+      "agentEmail": "rita.sharma@gmail.com",
+      "agentPhone": "+91-9876543241"
     },
     {
       "id": 33,
@@ -294,7 +450,12 @@
       "price": 35000,
       "location": "Whitefield",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://www.villasinbangalore.co.in/wp-content/uploads/2023/06/prestige-park-grove-villas.jpg"]
+      "photos": [
+        "https://www.villasinbangalore.co.in/wp-content/uploads/2023/06/prestige-park-grove-villas.jpg"
+      ],
+      "agentName": "Nitin Kapoor",
+      "agentEmail": "nitin.kapoor@gmail.com",
+      "agentPhone": "+91-9876543242"
     },
     {
       "id": 34,
@@ -303,7 +464,12 @@
       "price": 12000,
       "location": "Indiranagar",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://api.staybluo.com/property_assets/property_images/97/1621329099-Airbnb%20HSR%20Olive%202_2973_5_RealisticA.jpg"]
+      "photos": [
+        "https://api.staybluo.com/property_assets/property_images/97/1621329099-Airbnb%20HSR%20Olive%202_2973_5_RealisticA.jpg"
+      ],
+      "agentName": "Madhuri Sen",
+      "agentEmail": "madhuri.sen@gmail.com",
+      "agentPhone": "+91-9876543243"
     },
     {
       "id": 35,
@@ -312,7 +478,12 @@
       "price": 6000,
       "location": "BTM Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://content.jdmagicbox.com/comp/chennai/n4/044pxx44.xx44.161001060212.p1n4/catalogue/vjb-house-sholinganallur-chennai-ac-paying-guest-accommodations-for-men-v0226urq2s.jpg"]
+      "photos": [
+        "https://content.jdmagicbox.com/comp/chennai/n4/044pxx44.xx44.161001060212.p1n4/catalogue/vjb-house-sholinganallur-chennai-ac-paying-guest-accommodations-for-men-v0226urq2s.jpg"
+      ],
+      "agentName": "Amit Kumar",
+      "agentEmail": "amit.kumar@gmail.com",
+      "agentPhone": "+91-9876543244"
     },
     {
       "id": 36,
@@ -321,7 +492,12 @@
       "price": 20000,
       "location": "Electronic City",
       "amenities": ["WiFi", "Gym", "24/7 Security"],
-      "photos": ["https://newprojects.99acres.com/projects/brigade_group/cielo_at_brigade_valencia/images/pbz3c6ee.jpg"]
+      "photos": [
+        "https://newprojects.99acres.com/projects/brigade_group/cielo_at_brigade_valencia/images/pbz3c6ee.jpg"
+      ],
+      "agentName": "Aarti Desai",
+      "agentEmail": "aarti.desai@gmail.com",
+      "agentPhone": "+91-9876543245"
     },
     {
       "id": 37,
@@ -330,7 +506,12 @@
       "price": 18000,
       "location": "JP Nagar",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://images.nobroker.in/images/8a9f88438fbb027a018fbb5317be14e2/8a9f88438fbb027a018fbb5317be14e2_9240_849583_large.jpg"]
+      "photos": [
+        "https://images.nobroker.in/images/8a9f88438fbb027a018fbb5317be14e2/8a9f88438fbb027a018fbb5317be14e2_9240_849583_large.jpg"
+      ],
+      "agentName": "Praveen Reddy",
+      "agentEmail": "praveen.reddy@gmail.com",
+      "agentPhone": "+91-9876543246"
     },
     {
       "id": 38,
@@ -339,7 +520,12 @@
       "price": 5000,
       "location": "Bellandur",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/159925317.jpg?k=5e9fc03adfa8aa6b013e905ed93c9f1aa46e06d88556c6a4e1e313dc7c0ec7bf&o=&hp=1"]
+      "photos": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/159925317.jpg?k=5e9fc03adfa8aa6b013e905ed93c9f1aa46e06d88556c6a4e1e313dc7c0ec7bf&o=&hp=1"
+      ],
+      "agentName": "Sneha Patel",
+      "agentEmail": "sneha.patel@gmail.com",
+      "agentPhone": "+91-9876543247"
     },
     {
       "id": 39,
@@ -348,7 +534,12 @@
       "price": 22000,
       "location": "Marathahalli",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://superadmin.homes247.in/images/uploadPropertyImgs/1633581301-1@72x-50.jpg"]
+      "photos": [
+        "https://superadmin.homes247.in/images/uploadPropertyImgs/1633581301-1@72x-50.jpg"
+      ],
+      "agentName": "Arun Kumar",
+      "agentEmail": "arun.kumar@gmail.com",
+      "agentPhone": "+91-9876543248"
     },
     {
       "id": 40,
@@ -357,7 +548,12 @@
       "price": 40000,
       "location": "Sarjapur",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://www.apartmentsbangalore.co.in/wp-content/uploads/Godrej-Reflections1.jpg"]
+      "photos": [
+        "https://www.apartmentsbangalore.co.in/wp-content/uploads/Godrej-Reflections1.jpg"
+      ],
+      "agentName": "Sonali Jain",
+      "agentEmail": "sonali.jain@gmail.com",
+      "agentPhone": "+91-9876543249"
     },
     {
       "id": 41,
@@ -366,7 +562,12 @@
       "price": 15000,
       "location": "Koramangala",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://luxpropserv.com/wp-content/uploads/elementor/thumbs/G-Corp-Residences-Banner-min-pl7zu6cbnz9gjt15zztnkkgfu28oklxn09l8b9fa1s.webp"]
+      "photos": [
+        "https://luxpropserv.com/wp-content/uploads/elementor/thumbs/G-Corp-Residences-Banner-min-pl7zu6cbnz9gjt15zztnkkgfu28oklxn09l8b9fa1s.webp"
+      ],
+      "agentName": "Sandeep Nair",
+      "agentEmail": "sandeep.nair@gmail.com",
+      "agentPhone": "+91-9876543250"
     },
     {
       "id": 42,
@@ -375,7 +576,12 @@
       "price": 8000,
       "location": "HSR Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://content.jdmagicbox.com/comp/bangalore/f8/080pxx80.xx80.190914130654.r5f8/catalogue/sri-sai-srinivasa-luxury-pg-for-ladies-hsr-layout-sector-1-bangalore-paying-guest-accommodations-for-women-1xj6tpayek.jpg?clr="]
+      "photos": [
+        "https://content.jdmagicbox.com/comp/bangalore/f8/080pxx80.xx80.190914130654.r5f8/catalogue/sri-sai-srinivasa-luxury-pg-for-ladies-hsr-layout-sector-1-bangalore-paying-guest-accommodations-for-women-1xj6tpayek.jpg?clr="
+      ],
+      "agentName": "Neeraj Sharma",
+      "agentEmail": "neeraj.sharma@gmail.com",
+      "agentPhone": "+91-9876543251"
     },
     {
       "id": 43,
@@ -384,7 +590,12 @@
       "price": 35000,
       "location": "Whitefield",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://i.pinimg.com/736x/95/27/f6/9527f654acce9836b0b439cc039bba72.jpg"]
+      "photos": [
+        "https://i.pinimg.com/736x/95/27/f6/9527f654acce9836b0b439cc039bba72.jpg"
+      ],
+      "agentName": "Divya Mehta",
+      "agentEmail": "divya.mehta@gmail.com",
+      "agentPhone": "+91-9876543252"
     },
     {
       "id": 44,
@@ -393,7 +604,12 @@
       "price": 12000,
       "location": "Indiranagar",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://r1imghtlak.mmtcdn.com/b884eb90adee11e98d850242ac110004.jpg"]
+      "photos": [
+        "https://r1imghtlak.mmtcdn.com/b884eb90adee11e98d850242ac110004.jpg"
+      ],
+      "agentName": "Ravi Kumar",
+      "agentEmail": "ravi.kumar@gmail.com",
+      "agentPhone": "+91-9876543253"
     },
     {
       "id": 45,
@@ -402,7 +618,12 @@
       "price": 6000,
       "location": "BTM Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://content.jdmagicbox.com/v2/comp/bangalore/v1/080pxx80.xx80.220506121226.x2v1/catalogue/fine-life-pg-for-gents-btm-layout-2nd-stage-bangalore-paying-guest-accommodations-for-men-mn363bf6w2.jpg"]
+      "photos": [
+        "https://content.jdmagicbox.com/v2/comp/bangalore/v1/080pxx80.xx80.220506121226.x2v1/catalogue/fine-life-pg-for-gents-btm-layout-2nd-stage-bangalore-paying-guest-accommodations-for-men-mn363bf6w2.jpg"
+      ],
+      "agentName": "Meera Singh",
+      "agentEmail": "meera.singh@gmail.com",
+      "agentPhone": "+91-9876543254"
     },
     {
       "id": 46,
@@ -411,7 +632,12 @@
       "price": 20000,
       "location": "Electronic City",
       "amenities": ["WiFi", "Gym", "24/7 Security"],
-      "photos": ["https://jll-global-gdim-res.cloudinary.com/image/upload/t_ip-resi-v2-search-p2-web/v1623144732/IN/Horizon/Resi/Prod/JLL_Bengaluru_SLV_Pragathi_Amber_6636_EXT_1.png"]
+      "photos": [
+        "https://jll-global-gdim-res.cloudinary.com/image/upload/t_ip-resi-v2-search-p2-web/v1623144732/IN/Horizon/Resi/Prod/JLL_Bengaluru_SLV_Pragathi_Amber_6636_EXT_1.png"
+      ],
+      "agentName": "Vikram Sharma",
+      "agentEmail": "vikram.sharma@gmail.com",
+      "agentPhone": "+91-9876543255"
     },
     {
       "id": 47,
@@ -420,7 +646,12 @@
       "price": 18000,
       "location": "JP Nagar",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://www.bengaluruproperties.com/projectsgallery/3272/salepageimages/Dhiraan_Galaxy_1.jpg"]
+      "photos": [
+        "https://www.bengaluruproperties.com/projectsgallery/3272/salepageimages/Dhiraan_Galaxy_1.jpg"
+      ],
+      "agentName": "Anil Gupta",
+      "agentEmail": "anil.gupta@gmail.com",
+      "agentPhone": "+91-9876543256"
     },
     {
       "id": 48,
@@ -429,7 +660,12 @@
       "price": 5000,
       "location": "Bellandur",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://roomoccupiers.com/wp-content/uploads/2023/05/Isthara-Coliving-Tranquil-Homes.4.jpg"]
+      "photos": [
+        "https://roomoccupiers.com/wp-content/uploads/2023/05/Isthara-Coliving-Tranquil-Homes.4.jpg"
+      ],
+      "agentName": "Swati Patel",
+      "agentEmail": "swati.patel@gmail.com",
+      "agentPhone": "+91-9876543257"
     },
     {
       "id": 49,
@@ -438,7 +674,12 @@
       "price": 22000,
       "location": "Marathahalli",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://superadmin.homes247.in/images/uploadPropertyImgs/1633496361-5@72x-50.jpg"]
+      "photos": [
+        "https://superadmin.homes247.in/images/uploadPropertyImgs/1633496361-5@72x-50.jpg"
+      ],
+      "agentName": "Ritika Kapoor",
+      "agentEmail": "ritika.kapoor@gmail.com",
+      "agentPhone": "+91-9876543258"
     },
     {
       "id": 50,
@@ -447,7 +688,12 @@
       "price": 40000,
       "location": "Sarjapur",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://jll-global-gdim-res.cloudinary.com/image/upload/v1623144870/IN/Horizon/Resi/Prod/JLL_Bengaluru_Sobha_Royal_Pavilion_3752_EXT_1.png"]
+      "photos": [
+        "https://jll-global-gdim-res.cloudinary.com/image/upload/v1623144870/IN/Horizon/Resi/Prod/JLL_Bengaluru_Sobha_Royal_Pavilion_3752_EXT_1.png"
+      ],
+      "agentName": "Rajesh Reddy",
+      "agentEmail": "rajesh.reddy@gmail.com",
+      "agentPhone": "+91-9876543259"
     },
     {
       "id": 51,
@@ -456,7 +702,12 @@
       "price": 15000,
       "location": "Koramangala",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://www.homznspace.com/wp-content/uploads/2018/04/Kolte-Patil-24K-Grazio-Main.jpg"]
+      "photos": [
+        "https://www.homznspace.com/wp-content/uploads/2018/04/Kolte-Patil-24K-Grazio-Main.jpg"
+      ],
+      "agentName": "Sonia Verma",
+      "agentEmail": "sonia.verma@gmail.com",
+      "agentPhone": "+91-9876543260"
     },
     {
       "id": 52,
@@ -465,7 +716,12 @@
       "price": 8000,
       "location": "HSR Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_724,h_480/https://www.skepcoliving.com/wp-content/uploads/2023/06/hsr-property-1-1.jpg"]
+      "photos": [
+        "https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_724,h_480/https://www.skepcoliving.com/wp-content/uploads/2023/06/hsr-property-1-1.jpg"
+      ],
+      "agentName": "Deepak Sharma",
+      "agentEmail": "deepak.sharma@gmail.com",
+      "agentPhone": "+91-9876543261"
     },
     {
       "id": 53,
@@ -474,7 +730,12 @@
       "price": 35000,
       "location": "Whitefield",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://is1-3.housingcdn.com/4f2250e8/29101bafc50b85cec17fc2cc0cace0e3/v0/fs/prestige_lakeside_habitat_villas-whitefield-bengaluru-prestige_estates_projects_ltd.jpeg"]
+      "photos": [
+        "https://is1-3.housingcdn.com/4f2250e8/29101bafc50b85cec17fc2cc0cace0e3/v0/fs/prestige_lakeside_habitat_villas-whitefield-bengaluru-prestige_estates_projects_ltd.jpeg"
+      ],
+      "agentName": "Karan Patel",
+      "agentEmail": "karan.patel@gmail.com",
+      "agentPhone": "+91-9876543262"
     },
     {
       "id": 54,
@@ -483,7 +744,12 @@
       "price": 12000,
       "location": "Indiranagar",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAxMDcxNzYxODA4MjkyMzAwOQ%3D%3D/original/7ebeec5e-abff-4ceb-9de5-043adefa79f3.jpeg?im_w=720"]
+      "photos": [
+        "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTAxMDcxNzYxODA4MjkyMzAwOQ%3D%3D/original/7ebeec5e-abff-4ceb-9de5-043adefa79f3.jpeg?im_w=720"
+      ],
+      "agentName": "Nisha Joshi",
+      "agentEmail": "nisha.joshi@gmail.com",
+      "agentPhone": "+91-9876543263"
     },
     {
       "id": 55,
@@ -492,7 +758,12 @@
       "price": 6000,
       "location": "BTM Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center_caption_photo/photo/65bf7cde372bd000016138bc/7__4_.jpg"]
+      "photos": [
+        "https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center_caption_photo/photo/65bf7cde372bd000016138bc/7__4_.jpg"
+      ],
+      "agentName": "Ravi Desai",
+      "agentEmail": "ravi.desai@gmail.com",
+      "agentPhone": "+91-9876543264"
     },
     {
       "id": 56,
@@ -501,7 +772,12 @@
       "price": 20000,
       "location": "Electronic City",
       "amenities": ["WiFi", "Gym", "24/7 Security"],
-      "photos": ["https://teja10.kuikr.com//r1/20191012/ak_949_616522540-1570872840_700x700.jpeg"]
+      "photos": [
+        "https://teja10.kuikr.com//r1/20191012/ak_949_616522540-1570872840_700x700.jpeg"
+      ],
+      "agentName": "Akash Gupta",
+      "agentEmail": "akash.gupta@gmail.com",
+      "agentPhone": "+91-9876543265"
     },
     {
       "id": 57,
@@ -510,7 +786,12 @@
       "price": 18000,
       "location": "JP Nagar",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://im.proptiger.com/1/1527789/6/elegant-suraksha-elevation-106543307.jpeg"]
+      "photos": [
+        "https://im.proptiger.com/1/1527789/6/elegant-suraksha-elevation-106543307.jpeg"
+      ],
+      "agentName": "Priya Mehta",
+      "agentEmail": "priya.mehta@gmail.com",
+      "agentPhone": "+91-9876543266"
     },
     {
       "id": 58,
@@ -519,7 +800,12 @@
       "price": 5000,
       "location": "Bellandur",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center_caption_photo/photo/65c1af1d2a530b0001367ad3/1__4_.jpg"]
+      "photos": [
+        "https://play-zelo-production.s3.ap-south-1.amazonaws.com/uploads/center_caption_photo/photo/65c1af1d2a530b0001367ad3/1__4_.jpg"
+      ],
+      "agentName": "Sanjay Nair",
+      "agentEmail": "sanjay.nair@gmail.com",
+      "agentPhone": "+91-9876543267"
     },
     {
       "id": 59,
@@ -528,7 +814,12 @@
       "price": 22000,
       "location": "Marathahalli",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://content.jdmagicbox.com/comp/bangalore/h6/080pxx80.xx80.211227225808.v7h6/catalogue/charitha-green-woods-marathahalli-bangalore-residential-buildings-0toehr3ntr.jpg"]
+      "photos": [
+        "https://content.jdmagicbox.com/comp/bangalore/h6/080pxx80.xx80.211227225808.v7h6/catalogue/charitha-green-woods-marathahalli-bangalore-residential-buildings-0toehr3ntr.jpg"
+      ],
+      "agentName": "Divya Reddy",
+      "agentEmail": "divya.reddy@gmail.com",
+      "agentPhone": "+91-9876543268"
     },
     {
       "id": 60,
@@ -537,7 +828,12 @@
       "price": 40000,
       "location": "Sarjapur",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://address-prod.s3.ap-south-1.amazonaws.com/projects/1709722436351%5BPROXY%5D"]
+      "photos": [
+        "https://address-prod.s3.ap-south-1.amazonaws.com/projects/1709722436351%5BPROXY%5D"
+      ],
+      "agentName": "Amit Singh",
+      "agentEmail": "amit.singh@gmail.com",
+      "agentPhone": "+91-9876543269"
     },
     {
       "id": 61,
@@ -546,7 +842,12 @@
       "price": 15000,
       "location": "Koramangala",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://planetprop.in/wp-content/uploads/2016/01/g-corp-residences-koramangala.jpg"]
+      "photos": [
+        "https://planetprop.in/wp-content/uploads/2016/01/g-corp-residences-koramangala.jpg"
+      ],
+      "agentName": "Nitin Kumar",
+      "agentEmail": "nitin.kumar@gmail.com",
+      "agentPhone": "+91-9876543270"
     },
     {
       "id": 62,
@@ -555,7 +856,10 @@
       "price": 8000,
       "location": "HSR Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://goodlifestays.com/images/castle.jpg"]
+      "photos": ["https://goodlifestays.com/images/castle.jpg"],
+      "agentName": "Sonia Agarwal",
+      "agentEmail": "sonia.agarwal@gmail.com",
+      "agentPhone": "+91-9876543271"
     },
     {
       "id": 63,
@@ -564,7 +868,12 @@
       "price": 35000,
       "location": "Whitefield",
       "amenities": ["WiFi", "Swimming Pool", "Gym"],
-      "photos": ["https://www.prestigesraintreepark.info/images/prestige/prestige-raintree-park-villas.webp"]
+      "photos": [
+        "https://www.prestigesraintreepark.info/images/prestige/prestige-raintree-park-villas.webp"
+      ],
+      "agentName": "Raj Kumar",
+      "agentEmail": "raj.kumar@gmail.com",
+      "agentPhone": "+91-9876543272"
     },
     {
       "id": 64,
@@ -573,7 +882,10 @@
       "price": 12000,
       "location": "Indiranagar",
       "amenities": ["WiFi", "Gym", "Parking"],
-      "photos": ["https://cupliv.com/images/bangalore/Hyphen-Club-Lush/1.jpg"]
+      "photos": ["https://cupliv.com/images/bangalore/Hyphen-Club-Lush/1.jpg"],
+      "agentName": "Meena Desai",
+      "agentEmail": "meena.desai@gmail.com",
+      "agentPhone": "+91-9876543273"
     },
     {
       "id": 65,
@@ -582,7 +894,12 @@
       "price": 6000,
       "location": "BTM Layout",
       "amenities": ["WiFi", "Housekeeping", "Meals"],
-      "photos": ["https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/f_auto,q_auto/v1655886330/Website/CMS-Uploads/smjdi300hurw62wjdzwe.jpg"]
+      "photos": [
+        "https://res.cloudinary.com/stanza-living/image/upload/f_auto,q_auto,w_600/e_improve/e_sharpen:10/e_saturation:10/f_auto,q_auto/v1655886330/Website/CMS-Uploads/smjdi300hurw62wjdzwe.jpg"
+      ],
+      "agentName": "Anju Patel",
+      "agentEmail": "anju.patel@gmail.com",
+      "agentPhone": "+91-9876543274"
     },
     {
       "id": 66,
@@ -591,7 +908,12 @@
       "price": 20000,
       "location": "Electronic City",
       "amenities": ["WiFi", "Gym", "24/7 Security"],
-      "photos": ["https://3.imimg.com/data3/WE/WW/MY-3340206/s-i-s-acropole-luxury-apartments-trichy-e-pudur.jpg"]
+      "photos": [
+        "https://3.imimg.com/data3/WE/WW/MY-3340206/s-i-s-acropole-luxury-apartments-trichy-e-pudur.jpg"
+      ],
+      "agentName": "Ravi Kapoor",
+      "agentEmail": "ravi.kapoor@gmail.com",
+      "agentPhone": "+91-9876543275"
     },
     {
       "id": 67,
@@ -600,52 +922,82 @@
       "price": 18000,
       "location": "JP Nagar",
       "amenities": ["WiFi", "Parking", "24/7 Security"],
-      "photos": ["https://superadmin.homes247.in/images/uploadPropertyImgs/1608442845-8.JPG"]
+      "photos": [
+        "https://superadmin.homes247.in/images/uploadPropertyImgs/1608442845-8.JPG"
+      ],
+      "agentName": "Priya Sharma",
+      "agentEmail": "priya.sharma@gmail.com",
+      "agentPhone": "+91-9876543276"
     },
      {
-    "id": 68,
-    "title": "Single Room in Bellandur",
-"description": "A single room accommodation in a shared apartment in Bellandur.",
-"price": 5000,
-"location": "Bellandur",
-"amenities": ["WiFi", "Housekeeping", "Meals"],
-"photos": ["https://img.cofynd.com/images/latest_images_2024/a4c3f1ac333fa824639428c6b09f44e9d8cdbcb5.webp"]
+       "id": 68,
+       "title": "Single Room in Bellandur",
+       "description": "A single room accommodation in a shared apartment in Bellandur.",
+       "price": 5000,
+       "location": "Bellandur",
+       "amenities": ["WiFi", "Housekeeping", "Meals"],
+       "photos": [
+         "https://img.cofynd.com/images/latest_images_2024/a4c3f1ac333fa824639428c6b09f44e9d8cdbcb5.webp"
+       ],
+       "agentName": "Sanjay Mehta",
+       "agentEmail": "sanjay.mehta@gmail.com",
+       "agentPhone": "+91-9876543277"
+     },
+{
+  "id": 69,
+  "title": "3BHK Apartment in Marathahalli",
+  "description": "A well-furnished 3BHK apartment in Marathahalli.",
+  "price": 22000,
+  "location": "Marathahalli",
+  "amenities": ["WiFi", "Gym", "Parking"],
+  "photos": [
+    "https://content.jdmagicbox.com/comp/bangalore/c5/080pxx80.xx80.200919010345.s4c5/catalogue/valueprop-bhavya-pristine-marathahalli-bangalore-residential-buildings-nuam5wsoqk.jpg"
+  ],
+  "agentName": "Ankur Patel",
+  "agentEmail": "ankur.patel@gmail.com",
+  "agentPhone": "+91-9876543278"
 },
 {
-"id": 69,
-"title": "3BHK Apartment in Marathahalli",
-"description": "A well-furnished 3BHK apartment in Marathahalli.",
-"price": 22000,
-"location": "Marathahalli",
-"amenities": ["WiFi", "Gym", "Parking"],
-"photos": ["https://content.jdmagicbox.com/comp/bangalore/c5/080pxx80.xx80.200919010345.s4c5/catalogue/valueprop-bhavya-pristine-marathahalli-bangalore-residential-buildings-nuam5wsoqk.jpg"]
+  "id": 70,
+  "title": "Penthouse in Sarjapur",
+  "description": "A luxurious penthouse with a stunning view in Sarjapur.",
+  "price": 40000,
+  "location": "Sarjapur",
+  "amenities": ["WiFi", "Swimming Pool", "Gym"],
+  "photos": [
+    "https://is1-2.housingcdn.com/4f2250e8/0bba45dfa6d0c58f5071119c7f729586/v0/fs/jhanavi_noreste-sarjapur-bengaluru-jhanavi_heights_pvt_ltd.jpeg"
+  ],
+  "agentName": "Pooja Singh",
+  "agentEmail": "pooja.singh@gmail.com",
+  "agentPhone": "+91-9876543279"
 },
 {
-"id": 70,
-"title": "Penthouse in Sarjapur",
-"description": "A luxurious penthouse with a stunning view in Sarjapur.",
-"price": 40000,
-"location": "Sarjapur",
-"amenities": ["WiFi", "Swimming Pool", "Gym"],
-"photos": ["https://is1-2.housingcdn.com/4f2250e8/0bba45dfa6d0c58f5071119c7f729586/v0/fs/jhanavi_noreste-sarjapur-bengaluru-jhanavi_heights_pvt_ltd.jpeg"]
+  "id": 71,
+  "title": "Modern Apartment in Koramangala",
+  "description": "A beautiful and modern 2BHK apartment in the heart of Koramangala.",
+  "price": 15000,
+  "location": "Koramangala",
+  "amenities": ["WiFi", "Parking", "24/7 Security"],
+  "photos": [
+    "https://planetprop.in/wp-content/uploads/2016/01/g-corp-residences.jpg"
+  ],
+  "agentName": "Aarti Joshi",
+  "agentEmail": "aarti.joshi@gmail.com",
+  "agentPhone": "+91-9876543280"
 },
 {
-"id": 71,
-"title": "Modern Apartment in Koramangala",
-"description": "A beautiful and modern 2BHK apartment in the heart of Koramangala.",
-"price": 15000,
-"location": "Koramangala",
-"amenities": ["WiFi", "Parking", "24/7 Security"],
-"photos": ["https://planetprop.in/wp-content/uploads/2016/01/g-corp-residences.jpg"]
-},
-{
-"id": 72,
-"title": "Cozy PG in HSR Layout",
-"description": "A cozy and affordable PG accommodation in HSR Layout.",
-"price": 8000,
-"location": "HSR Layout",
-"amenities": ["WiFi", "Housekeeping", "Meals"],
-"photos": ["https://roomoccupiers.com/wp-content/uploads/2023/02/1658497841N9.jpeg"]
+  "id": 72,
+  "title": "Cozy PG in HSR Layout",
+  "description": "A cozy and affordable PG accommodation in HSR Layout.",
+  "price": 8000,
+  "location": "HSR Layout",
+  "amenities": ["WiFi", "Housekeeping", "Meals"],
+  "photos": [
+    "https://roomoccupiers.com/wp-content/uploads/2023/02/1658497841N9.jpeg"
+  ],
+  "agentName": "Akash Gupta",
+  "agentEmail": "akash.gupta@gmail.com",
+  "agentPhone": "+91-9876543265"
 }
 
   ],
